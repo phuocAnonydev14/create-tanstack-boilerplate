@@ -30,6 +30,14 @@
 
   "author": "Phuoc",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuocAnonydev14/create-tanstack-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phuocAnonydev14/create-tanstack-boilerplate/issues"
+  },
+  "homepage": "https://phuocAnonydev14.github.io/create-tanstack-boilerplate#readme",
   "dependencies": {
     "prompts": "^2.4.2",
     "picocolors": "^1.1.1",

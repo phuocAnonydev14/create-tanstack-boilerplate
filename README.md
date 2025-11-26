@@ -1,9 +1,8 @@
 # 🚀 Create TanStack Boilerplate
 
-An interactive CLI tool to scaffold a modern [TanStack Start](https://tanstack.com/start/latest) application with customizable features.
+A fast, production-ready CLI to scaffold TanStack Start applications (React + Vite + TypeScript + Tailwind). Use this tool to generate opinionated, scalable starters with optional i18n, auth, UI, and testing presets — perfect for teams and projects that need a solid default stack.
 
-[![npm version](https://img.shields.io/npm/v/create-tanstack-boilerplate.svg)](https://www.npmjs.com/package/create-tanstack-boilerplate)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/create-tanstack-boilerplate.svg)](https://www.npmjs.com/package/create-tanstack-boilerplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Issues](https://img.shields.io/github/issues/phuocAnonydev14/create-tanstack-boilerplate)](https://github.com/phuocAnonydev14/create-tanstack-boilerplate/issues)
 
 ## ✨ Features
 
@@ -193,4 +192,10 @@ Built with ❤️ using:
 **Happy coding! 🚀**
 
 Made with ❤️ by the community
-# create-tanstack-boilerplate
+## Links
+
+- **NPM Package**: https://www.npmjs.com/package/create-tanstack-boilerplate
+- **GitHub Repository**: https://github.com/phuocAnonydev14/create-tanstack-boilerplate
+- **Issue Tracker**: https://github.com/phuocAnonydev14/create-tanstack-boilerplate/issues
+
+---
