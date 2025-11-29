@@ -1,3 +1,11 @@
+# 🚀 Create TanStack Boilerplate
+
+A fast, production-ready CLI to scaffold [TanStack Start](https://tanstack.com/start/latest) applications (React + Vite + TypeScript + Tailwind). Use this tool to generate opinionated, scalable starters with optional i18n, Form Management, Validation, UI, Cloudflare Deployment, and testing presets — perfect for teams and projects that need a solid default stack.
+
+[![npm version](https://img.shields.io/npm/v/create-tanstack-boilerplate.svg)](https://www.npmjs.com/package/create-tanstack-boilerplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Issues](https://img.shields.io/github/issues/phuocAnonydev14/create-tanstack-boilerplate)](https://github.com/phuocAnonydev14/create-tanstack-boilerplate/issues)
+
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in 2 minutes
+- **[Examples & Patterns](EXAMPLES.md)** - Common use cases and code examples
 - **[Contributing](CONTRIBUTING.md)** - Contribution guidelines
 - **[Testing Guide](TESTING.md)** - How to test the CLI
 - **[Changelog](CHANGELOG.md)** - Version history
@@ -34,6 +42,7 @@ The CLI will guide you through:
    - 🎭 Animations (Framer Motion)
    - ✅ Testing (Vitest)
    - 🎯 Code Quality (Biome + Husky)
+   - ☁️ Cloudflare Deployment (Workers)
 
 4. **Languages** (if i18n selected) - Choose which languages to support
 5. **Base locale** (if i18n selected) - Set your default language
