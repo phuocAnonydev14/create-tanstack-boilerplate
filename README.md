@@ -1,6 +1,6 @@
 # 🚀 Create TanStack Boilerplate
 
-A fast, production-ready CLI to scaffold [TanStack Start](https://tanstack.com/start/latest) applications (React + Vite + TypeScript + Tailwind). Use this tool to generate opinionated, scalable starters with optional i18n, Form Management, Validation, UI, Cloudflare Deployment, and testing presets — perfect for teams and projects that need a solid default stack.
+A fast, production-ready CLI to scaffold [TanStack Start](https://tanstack.com/start/latest) applications (React + Vite + TypeScript + Tailwind). Use this tool to generate opinionated, scalable starters with tanstack libraries, optional i18n, Form Management, Validation, UI, Cloudflare Deployment, and testing presets — perfect for teams and projects that need a solid default stack.
 
 [![npm version](https://img.shields.io/npm/v/create-tanstack-boilerplate.svg)](https://www.npmjs.com/package/create-tanstack-boilerplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Issues](https://img.shields.io/github/issues/phuocAnonydev14/create-tanstack-boilerplate)](https://github.com/phuocAnonydev14/create-tanstack-boilerplate/issues)
 
