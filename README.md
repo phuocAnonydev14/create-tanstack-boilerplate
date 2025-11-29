@@ -4,12 +4,6 @@ A fast, production-ready CLI to scaffold [TanStack Start](https://tanstack.com/s
 
 [![npm version](https://img.shields.io/npm/v/create-tanstack-boilerplate.svg)](https://www.npmjs.com/package/create-tanstack-boilerplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Issues](https://img.shields.io/github/issues/phuocAnonydev14/create-tanstack-boilerplate)](https://github.com/phuocAnonydev14/create-tanstack-boilerplate/issues)
 
-- **[Quick Start Guide](QUICKSTART.md)** - Get started in 2 minutes
-- **[Examples & Patterns](EXAMPLES.md)** - Common use cases and code examples
-- **[Contributing](CONTRIBUTING.md)** - Contribution guidelines
-- **[Testing Guide](TESTING.md)** - How to test the CLI
-- **[Changelog](CHANGELOG.md)** - Version history
-
 ## 🚀 Quick Start
 
 ### NPM
