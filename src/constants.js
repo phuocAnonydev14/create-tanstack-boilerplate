@@ -64,7 +64,7 @@ export const FEATURES = {
   },
   deploy: {
     name: "Cloudflare Deployment",
-    description: "Deploy to Cloudflare Pages using @cloudflare/vite-plugin",
+    description: "Deploy to Cloudflare Workers using @cloudflare/vite-plugin",
     packages: [],
     devPackages: ["@cloudflare/vite-plugin", "wrangler"],
   },
