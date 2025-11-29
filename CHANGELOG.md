@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.21
+
+### Patch Changes
+
+- 17755f7: just testing if it works :)
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
@@ -8,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Planned
+
 - [ ] Add more UI component templates
 - [ ] Support for more authentication providers
 - [ ] Database integration options
@@ -16,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.6] - 2025-11-26
 
 ### Fixed
+
 - Fixed `TypeError: (intermediate value).routerEntry.getRouter is not a function` error by pinning TanStack packages to version 1.121.0.
 - Fixed dependency version mismatches using `pnpm overrides`.
 - Renamed `src/ssr.tsx` to `src/server.ts` to match the correct entry point convention.
@@ -24,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.5] - 2025-11-25
 
 ### Added
+
 - 🎉 Initial release
 - ✨ Interactive CLI with prompts
 - 🌍 i18n support with Inlang/Paraglide
@@ -38,6 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 📝 Comprehensive documentation
 
 ### Features
+
 - Interactive project setup
 - Customizable feature selection
 - Multiple language support
