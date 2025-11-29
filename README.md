@@ -82,19 +82,6 @@ my-app/
 └── ...
 ```
 
-See [EXAMPLES.md](EXAMPLES.md) for detailed structure examples.
-
-## 🛠️ Tech Stack
-
-### Core (Always Included)
-
-- ⚡ **TanStack Start** - Full-stack React framework
-- ⚛️ **React 19** - Latest React
-- 🔄 **TanStack Router** - Type-safe routing
-- 🔍 **TanStack Query** - Data fetching & caching
-- 📦 **Vite** - Lightning-fast build tool
-- 🎯 **TypeScript** - Type safety
-
 ### Optional Features
 
 See [EXAMPLES.md](EXAMPLES.md) for detailed feature descriptions and usage examples.
