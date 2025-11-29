@@ -30,7 +30,7 @@ The CLI will guide you through:
 3. **Features** - Select which features you want:
    - 🌍 Internationalization (i18n)
    - 🎨 UI Components (Radix UI + Tailwind)
-   - ⚡ State Management (Jotai)
+   - ⚡ State Management (Jotai/Zustand)
    - 📋 Form Management (TanStack Form)
    - 🛡️ Validation (Zod/ArkType)
    - 🎭 Animations (Framer Motion)
